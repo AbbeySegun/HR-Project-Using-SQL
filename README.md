@@ -1,1 +1,1 @@
-# HR-Project-Using-SQL
+This repository contains a collection of SQL queries designed to analyze and retrieve information from an employee database. Each query is crafted to answer specific business questions related to employee salaries, department details, and other HR-related metrics.
